@@ -22,17 +22,17 @@ Machine Learning (Aprendizado de Máquina) é uma área da Inteligência Artific
 
 São divisões do conjunto total de dados usados em diferentes fases do desenvolvimento do modelo:
 
-### 🟦 Conjunto de Treinamento (Training Set)
+### Conjunto de Treinamento (Training Set)
 - **Tamanho típico:** 60-80% dos dados
 - **Função:** O modelo aprende os padrões a partir desses dados. É aqui que os pesos e parâmetros são ajustados.
 - **Analogia:** É como os "exercícios" que um aluno faz para aprender a matéria.
 
-### 🟨 Conjunto de Validação (Validation Set)
+### Conjunto de Validação (Validation Set)
 - **Tamanho típico:** 10-20% dos dados
 - **Função:** Usado para ajustar os hiperparâmetros do modelo (taxa de aprendizado, número de camadas, etc.) e evitar overfitting. Não é usado para treinar, apenas para avaliar durante o desenvolvimento.
 - **Analogia:** É como as "provas simuladas" que ajudam o aluno a saber se está pronto.
 
-### 🟥 Conjunto de Teste (Test Set)
+### Conjunto de Teste (Test Set)
 - **Tamanho típico:** 10-20% dos dados
 - **Função:** Avalia o desempenho final do modelo em dados nunca vistos antes. É a "prova final" que mede a real capacidade de generalização.
 - **Analogia:** É como a "prova oficial" - o aluno nunca viu as questões antes.
@@ -45,13 +45,13 @@ São divisões do conjunto total de dados usados em diferentes fases do desenvol
 
 Dados ausentes são comuns em problemas reais e precisam ser tratados. Minha abordagem seria:
 
-### 🔍 1. Análise Exploratória
+### 1. Análise Exploratória
 Primeiro, entenderia:
 - **Quantos dados estão faltando?**
 - **O padrão é aleatório (MCAR) ou sistemático (MAR/NMAR)?**
 - **Qual coluna tem mais dados faltantes?**
 
-### 🛠️ 2. Estratégias de Tratamento
+### 2. Estratégias de Tratamento
 
 | Estratégia | Quando usar | Como fazer |
 |------------|-------------|------------|
