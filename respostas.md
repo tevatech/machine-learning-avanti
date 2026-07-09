@@ -62,7 +62,7 @@ Primeiro, entenderia:
 | **KNN Imputation** | Dados com padrões similares | Usar os K vizinhos mais próximos para estimar |
 | **Criação de Indicador** | Quando o fato de faltar é relevante | Criar coluna binária indicando se faltava |
 
-### 📊 Exemplo prático em Python:
+### Exemplo prático em Python:
 
 ```python
 # Usando pandas
