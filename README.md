@@ -9,5 +9,5 @@ Repositório dedicado aos trabalhos e projetos desenvolvidos durante o bootcamp.
 | Trabalho | Descrição | Status |
 |----------|-----------|--------|
 | [Trabalho 01](https://github.com/tevatech/machine-learning-avanti/blob/main/respostas.md) | Fundamentos de Machine Learning | ✅ Concluído |
-| [Trabalho 02](./trabalho-02/) | Em breve... | ⏳ Pendente |
-| [Trabalho 03](./trabalho-03/) | Em breve... | ⏳ Pendente |
+| [Trabalho 02](https://github.com/tevatech/machine-learning-avanti/blob/main/trabalho02.py) | Python | ✅ Concluído |
+
